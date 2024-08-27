@@ -1,0 +1,3 @@
+[submodule "FunnyMaps.Client"]
+	path = FunnyMaps.Client
+	url = https://github.com/coder-estnefo/FunnyMaps.Client.git
